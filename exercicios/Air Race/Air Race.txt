@@ -1,0 +1,20 @@
+Representação de Conhecimento – Red Bull Air Race
+
+Represente o seguinte conhecimento em Prolog:
+• Lamb, Besenyei, Chambliss, MacLean, Mangold, Jones e Bonhomme são pilotos.
+• Lamb é da equipe Breitling, Besenyei e Chambli da Red Bull, MacLean da Mediterranean Racing
+Team, Mangold da Cobra, Jones e Bonhomme da Matador.
+• O avião de Lamb é um MX2 e o de Besenyei, Chambliss, MacLean, Mangold, Jones e Bonhomme é um Edge540.
+• Istanbul, Budapest e Porto são circuitos.
+• Jones venceu no Porto, Mangold venceu em Budapest e em Istanbul.
+• Istanbul tem 9 gates, Budapest tem 6 gates e Porto tem 5 gates.
+• Uma equipe ganha uma corrida quando um dos seus pilotos vence essa corrida.
+
+
+Escreva as seguintes perguntas em Prolog:
+
+a) Quem venceu a corrida no Porto?
+b) Qual a equipe que ganhou no Porto?
+c) Quais os pilotos que venceram mais de um circuito?
+d) Que circuitos têm mais de 8 gates?
+e) Que pilotos não pilotam um Edge540?
